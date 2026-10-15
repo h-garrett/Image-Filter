@@ -1,1 +1,1 @@
-This repository is meant to showcase code from this project, and does not include the necessary files to build and run it. The Results folder contains some of the images I've created with this project
+This repository is meant to showcase code from this project, and does not include the necessary files to build and run it. The `Results` and `Favorites` folders contain some of the images I've created with this project
